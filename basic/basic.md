@@ -35,7 +35,7 @@ RPE 使用平面直角坐标系。
 
 由于某些原因，我们无法保证 `note` 与节拍对齐，因此需要调整**谱面偏移**。
 
-见[偏移](edit/basic.md#偏移)。
+见[偏移](manual/edit/basic.md#偏移)。
 
 - [判定线](basic/line.md)
 - [音符](basic/note.md)
