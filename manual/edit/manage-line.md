@@ -40,19 +40,21 @@
 
 第二行（$(x,y)\ {\alpha}^{\circ}\ a\texttt{A}\ v\texttt{V}\ c\texttt{C}$）从左到右为：
 
-- $(x,y)$：判定线[锚点](basic/line.md#锚点)的位置
-- ${\alpha}^{\circ}$：判定线的[角度](basic/line.md#角度)
-- $a\texttt{A}$：判定线的[透明度](basic/line.md#透明度)
-- $v\texttt{V}$：判定线的[基准速度](basic/line.md#基准速度)
-- $c\texttt{C}$：判定线的[遮罩](basic/line.md#遮罩)
+- $(x,y)$：判定线[锚点](basic/line.md#锚点)的位置。
+- ${\alpha}^{\circ}$：判定线的[角度](basic/line.md#角度)。
+- $a\texttt{A}$：判定线的[透明度](basic/line.md#透明度)。
+- $v\texttt{V}$：判定线的[基准速度](basic/line.md#基准速度)。
+- $c\texttt{C}$：判定线的[遮罩](basic/line.md#遮罩)。
+  - $c=1$ 为 `Cover`。
+  - $c=0$ 为 `UnCover`。
 
 第三行（$\texttt{UnJudged:}\ t\texttt{t}\ d\texttt{d}\ f\texttt{f}\ h\texttt{h}\ e\texttt{Events}$）从左到右为：
 
-- $t\texttt{t}$：该判定线上未被判定（完）的 `Tap` 数量
-- $d\texttt{d}$：该判定线上未被判定（完）的 `Drag` 数量
-- $f\texttt{f}$：该判定线上未被判定（完）的 `Flick` 数量
-- $h\texttt{h}$：该判定线上未被判定（完）的 `Hold` 数量
-- $e\texttt{Events}$：该判定线上未被判定（完）的事件数量
+- $t\texttt{t}$：该判定线上未被判定（完）的 `Tap` 数量。
+- $d\texttt{d}$：该判定线上未被判定（完）的 `Drag` 数量。
+- $f\texttt{f}$：该判定线上未被判定（完）的 `Flick` 数量。
+- $h\texttt{h}$：该判定线上未被判定（完）的 `Hold` 数量。
+- $e\texttt{Events}$：该判定线上未被判定（完）的事件数量。
 
 ### 增加判定线
 
