@@ -1,4 +1,5 @@
 - [主页](/)
+- [快速开始](quick-start.md)
 - [常见问题](faq.md)
 - 基础
   - [基础](basic/basic.md)
