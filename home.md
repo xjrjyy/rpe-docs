@@ -19,6 +19,7 @@
 - [编辑基础](edit/basic.md)
 - [音符编辑](edit/note.md)
 - [事件编辑](edit/event.md)
+- [判定线管理](edit/line-manage.md)
 
 ## 进阶
 
