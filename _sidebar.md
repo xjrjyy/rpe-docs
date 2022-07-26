@@ -1,12 +1,13 @@
 - [主页](/)
-- [基础](basic.md)
-- [判定线](line.md)
-- [音符](note.md)
-- [事件](event.md)
+- [常见问题](faq.md)
+- 基础
+  - [基础](basic/basic.md)
+  - [判定线](basic/line.md)
+  - [音符](basic/note.md)
+  - [事件](basic/event.md)
 - 编辑
   - [编辑基础](edit/basic.md)
   - [音符编辑](edit/note.md)
   - [事件编辑](edit/event.md)
   - [批量编辑](edit/batch.md)
-- [常见问题](faq.md)
 - [TODO](todo.md)

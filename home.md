@@ -8,13 +8,13 @@
 
 <!--TODO: 此处应有图片-->
 
-请先阅读[基础](basic.md)部分。
+请先阅读[基础](basic/basic.md)部分。
+
+- [判定线](basic/line.md)
+- [音符](basic/note.md)
+- [事件](basic/event.md)
 
 接下来，请阅读以下部分：
-
-- [判定线](line.md)
-- [音符](note.md)
-- [事件](event.md)
 
 - [编辑基础](edit/basic.md)
 - [音符编辑](edit/note.md)
