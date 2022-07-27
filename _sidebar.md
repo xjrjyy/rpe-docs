@@ -6,6 +6,7 @@
   - [判定线](basic/line.md)
   - [音符](basic/note.md)
   - [事件](basic/event.md)
+  - [特殊事件](basic/special-event.md)
 - 手册
   - 编辑
     - [编辑基础](manual/edit/basic.md)

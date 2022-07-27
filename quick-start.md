@@ -29,3 +29,4 @@
 - [音符填充](manual/edit/fill-note.md)
 - [轨迹生成](manual/edit/generate-track.md)
 - [撤销与重做](manual/edit/undo-and-redo.md)
+- [特殊事件](basic/special-event.md)
